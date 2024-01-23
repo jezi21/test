@@ -1,0 +1,7 @@
+"Panie Marcelu tylko Github nie bierze czasu lokalnego. 
+To jest czas sparsowany do konkretnej jednej notacji zawsze na bazie czasu "commita" (czyli kiedy on wchodzi na repozytorium)."
+
+
+github bierze czas z ukrytego folderu .git gdzie są wszystkie rzeczy i można je edytować
+więc prosze nie zmyślać 
+Pozdrawiam Marcel Wiewióra
